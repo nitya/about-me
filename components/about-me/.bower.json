@@ -1,0 +1,36 @@
+{
+  "name": "about-me",
+  "authors": [
+    "Anonymous <anonymous@example.com>"
+  ],
+  "description": "Element providing solution to no problem in particular.",
+  "keywords": [
+    "web-component",
+    "web-components",
+    "polymer",
+    "seed"
+  ],
+  "main": "about-me.html",
+  "license": "MIT",
+  "homepage": "https://github.com/nitya/about-me/",
+  "ignore": [
+    "/.*",
+    "/tests/"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^0.5.4"
+  },
+  "devDependencies": {
+    "web-component-tester": "*"
+  },
+  "_release": "095515461f",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "095515461f57355fab14216992598ac9f2644f3d"
+  },
+  "_source": "git://github.com/nitya/about-me.git",
+  "_target": "master",
+  "_originalSource": "nitya/about-me",
+  "_direct": true
+}

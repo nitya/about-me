@@ -1,0 +1,7 @@
+{
+  "name": "about-me#gh-pages",
+  "private": true,
+  "dependencies": {
+    "about-me": "nitya/about-me#master"
+  }
+}
